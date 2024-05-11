@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php 
-        $variable= "HOLA";
+        $variable= "HOLA COMO ESTAS?";
         echo $variable;
 
         $numero = 10;
